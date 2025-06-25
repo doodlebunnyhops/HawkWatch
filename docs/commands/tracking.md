@@ -110,4 +110,5 @@ View the current tracking settings for a game.
 
 ---
 
-[← Back to Command Index](index.md)
+
+[← Back to Commands](index.md)

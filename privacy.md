@@ -15,3 +15,6 @@ This data is used **only** to provide update notifications and is never shared, 
 ---
 
 If you have questions, concerns, or would like data removed, please contact the developer (**BloominDaisy**) in the [support server](https://discord.gg/fxhXWgxcHV).
+
+
+[← Back to Readme](README.md)

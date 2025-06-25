@@ -61,3 +61,7 @@ Used internally for testing and limited deployment. Not available to the public.
 ---
 
 Have feedback or ideas? [Join the Support Server](https://discord.gg/fxhXWgxcHV)
+
+---
+
+[← Back to Readme](README.md)

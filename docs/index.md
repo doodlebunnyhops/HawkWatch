@@ -52,3 +52,6 @@ Whether you're a player, a content creator, or a community manager, HawkWatch ke
 **BloominDaisy**  
 Questions? Ideas? [Join the support server](https://discord.gg/fxhXWgxcHV)
 
+
+[← Back to Readme](README.md)
+

@@ -18,3 +18,5 @@ Once invited, start by running:
 ```
 
 Need help? [Visit the Support Server](https://discord.gg/fxhXWgxcHV)
+
+[← Back to Readme](README.md)

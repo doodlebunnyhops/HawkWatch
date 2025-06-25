@@ -47,10 +47,11 @@ Need help or have a suggestion?
 
 ---
 
-## 🔒 Privacy
+## 🔒 Privacy & Updates
 
-HawkWatch respects your privacy.  
-Read the full [Privacy Policy](docs/privacy.md).
+- [Privacy Policy](privacy.md)  
+- [Changelog](changelog.md)
+
 
 ---
 

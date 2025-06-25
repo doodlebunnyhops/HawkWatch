@@ -39,4 +39,5 @@ Search for a Roblox game using name, creator, or genre keywords.
 
 ---
 
-[← Back to Command Index](index.md)
+
+[← Back to Commands](index.md)

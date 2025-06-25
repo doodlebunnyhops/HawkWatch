@@ -26,4 +26,4 @@ Use this anytime you or someone on your server needs a refresher.
 
 ---
 
-[← Back to Command Index](index.md)
+[← Back to Commands](index.md)

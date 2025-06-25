@@ -40,4 +40,4 @@ Check the [Permissions Guide](../permissions.md) if something isn't working.
 
 ---
 
-[← Back to Documentation Index](../index.md)
+[← Back to Documentation](../index.md)
