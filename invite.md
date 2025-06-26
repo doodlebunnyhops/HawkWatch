@@ -17,6 +17,6 @@ Once invited, start by running:
 /watch game name:<name or id>
 ```
 
-Need help? [Visit the Support Server](https://discord.gg/fxhXWgxcHV)
+Need help? [Visit the Discord Support Server](https://discord.gg/fxhXWgxcHV)
 
 [← Back to Readme](README.md)
