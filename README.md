@@ -1,3 +1,8 @@
+[![Discord](https://img.shields.io/discord/1313951389323366564?logo=discord&logoColor=white&label=Join%20Discord&color=cc00ff&link=https%3A%2F%2Fdiscord.gg%2FfxhXWgxcHV)](https://discord.gg/fxhXWgxcHV)
+
+![Static Badge](https://img.shields.io/badge/version-v1.2.5-00c2cb?label=version)
+
+
 # HawkWatch
 
 ![](/images/hawk1.png)
@@ -43,7 +48,7 @@ All setup help and deep-dive guides are in the [`/docs`](docs/index.md) folder.
 ## 🛠️ Support
 
 Need help or have a suggestion?  
-👉 [Join the Support Server](https://discord.gg/fxhXWgxcHV)
+👉 [Join the Discord Support Server](https://discord.gg/fxhXWgxcHV)
 
 ---
 

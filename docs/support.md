@@ -2,7 +2,7 @@
 
 Found a bug? Have a request?
 
-👉 [Join the Support Server](https://discord.gg/fxhXWgxcHV)  
+👉 [Join the Discord Support Server](https://discord.gg/fxhXWgxcHV)  
 Go to `#support` and let us know!
 
 

@@ -15,7 +15,7 @@ The ultimate Discord bot for staying informed about your favorite Roblox games. 
 
 Created by **BloominDaisy**, the bot watches games for key changes like thumbnails, names, and update times — then notifies you.
 
-Join the support server: [Click Here to Join](https://discord.gg/fxhXWgxcHV)
+Join the Discord Support Server: [Click Here to Join](https://discord.gg/fxhXWgxcHV)
 
 [← Back to Documentation](index.md)
 
