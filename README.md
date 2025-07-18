@@ -52,9 +52,10 @@ Need help or have a suggestion?
 
 ---
 
-## 🔒 Privacy & Updates
+## 🔒 Terms of Service, Privacy & Updates
 
-- [Privacy Policy](privacy.md)  
+- [Privacy Policy](privacy_policy.md)
+- [Terms of Service](terms_of_service.md)
 - [Changelog](changelog.md)
 
 
