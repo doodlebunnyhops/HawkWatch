@@ -1,6 +1,6 @@
 [![Discord](https://img.shields.io/discord/1313951389323366564?logo=discord&logoColor=white&label=Join%20Discord&color=cc00ff&link=https%3A%2F%2Fdiscord.gg%2FfxhXWgxcHV)](https://discord.gg/fxhXWgxcHV)
 
-![Static Badge](https://img.shields.io/badge/version-v1.2.5-00c2cb?label=version)
+![Static Badge](https://img.shields.io/badge/version-v1.2.6-00c2cb?label=version)
 
 
 # HawkWatch
@@ -11,6 +11,17 @@
 
 > Ideal for Roblox fans, gaming communities, and anyone who wants to know what’s new, fast.
 
+## 👀 Why Use HawkWatch?
+
+Most bots can post announcements — but HawkWatch watches *actual change*.  
+Whether it’s a quiet thumbnail swap, a stealthy dev push, or a surprise patch, HawkWatch catches it.
+
+From the moment you start watching, you get a **historical trail** of how your favorite games evolve — one update at a time.  
+It’s like a personal changelog for the games you care about most.
+
+Stay ahead. Stay curious. Stay informed.
+
+
 ---
 
 ## ✨ Features
@@ -20,6 +31,9 @@
 - ✏️ Game name change alerts
 - 📄 Description comparison
 - 🎯 Customize which changes trigger alerts
+- 📢 Per-game role pings (only when it matters)
+- 🧠 Smart “Disable Date Tracking” button shown in-post
+- 🎮 Quick “Play Game” button in some update alerts
 
 ---
 
