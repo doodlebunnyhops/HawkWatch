@@ -4,6 +4,15 @@ This changelog covers major updates and bug fixes that impact how users experien
 
 ---
 
+## [v1.2.6] – Smarter Pings and Faster Tracking  
+- ⏱️ Tracking interval reduced to 1 minute for snappier update detection  
+- 📢 Added per-game ping role support with `/watch settings set ping_role:@role`  
+- 🔕 Ping roles are now ignored when the only change is a timestamp update  
+- 🗓️ Added in-post “Disable Date Tracking” buttons for easier noise control  
+- 🎮 Added occasional “Play Game” buttons to jump into updated games instantly  
+
+---
+
 ## [v1.2.5] – API Reliability
 
 - 🔐 Fixed Roblox API compatibility issues after SSL trust level changes from Roblox system.
