@@ -8,24 +8,26 @@ These commands let you follow updates for specific Roblox games. You’ll receiv
 
 ## 🔍 Start & Stop Tracking
 
-### `/watch`
+### `/watch game`
 
 **Description:**  
 Start tracking updates for a game by name or ID. Only works in Text or Thread channels.
 
 **Usage:**
 ```plaintext
-/watch game name:<name|id> notify:<channel>
+/watch game name:<name|id> notify:<channel> ping_role:<role>
 ```
 
 **Options:**
 - `name` (*String or ID*, Required) — The game’s name or numeric ID.
 - `notify` (*Channel*, Optional) — Where alerts will be sent. Defaults to current channel.
+- `ping_role` (*Role to ping*, Optional) - Will ping this role on updates. **Last Update** Only posts will not ping!
 
 **Examples:**
 - `/watch game name:RIVALS`
 - `/watch game name:17625359962`
 - `/watch game name:RIVALS notify:updates`
+- `/watch game name:RIVALS notify:updates ping_role:@rival_watchers`
 
 ---
 
@@ -47,6 +49,24 @@ Stop tracking a game.
 **Examples:**
 - `/unwatch name:RIVALS`
 - `/unwatch name:17625359962`
+
+---
+
+### `/unset role`
+
+**Description:**  
+Stop Receiving Pings on a tracked game
+
+**Usage:**
+```plaintext
+/unset role game_name:<name>
+```
+
+**Options:**
+- `name` (*String*) — The game’s name, it will populate which watched games that have ping roles assigned to them only.
+
+**Examples:**
+- `/unset role game_name:RIVALS`
 
 ---
 
