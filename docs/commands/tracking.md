@@ -36,7 +36,7 @@ Start tracking updates for a game by name or ID. Only works in Text or Thread ch
 **Description:**  
 Stop tracking a game.
 
-> ❗ Unwatching a game prevents you from adding a new game for 24 hours. However, you can immediately rewatch the same game if it was a mistake.
+> ❗ Unwatching a game prevents you from adding a new game for 1 hour. However, you can immediately rewatch the same game if it was a mistake.
 
 **Usage:**
 ```plaintext
