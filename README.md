@@ -39,7 +39,7 @@ Stay ahead. Stay curious. Stay informed.
 
 ## 🚀 Quick Start
 
-1. [**Invite the bot to your server**](/invite.md)
+1. [**Invite the bot to your server**](https://hawkwatch.xyz/docs/setup/quick-start/)
 2. Run `/watch setup name:<name, game id, or url>`
 3. Get alerts when updates happen!
 
