@@ -1,6 +1,6 @@
 [![Discord](https://img.shields.io/discord/1313951389323366564?logo=discord&logoColor=white&label=Join%20Discord&color=cc00ff&link=https%3A%2F%2Fdiscord.gg%2FfxhXWgxcHV)](https://discord.gg/fxhXWgxcHV)
 
-![Static Badge](https://img.shields.io/badge/version-v1.2.6-00c2cb?label=version)
+![Static Badge](https://img.shields.io/badge/version-v2.0.0-00c2cb?label=version)
 
 
 # HawkWatch
@@ -40,22 +40,22 @@ Stay ahead. Stay curious. Stay informed.
 ## 🚀 Quick Start
 
 1. [**Invite the bot to your server**](/invite.md)
-2. Run `/watch game name:<name or id>`
+2. Run `/watch setup name:<name, game id, or url>`
 3. Get alerts when updates happen!
 
-See the [Quick Start Guide](docs/quick_start.md) for full details.
+See the [Quick Start Guide](https://hawkwatch.xyz/docs/setup/quick-start/) for full details.
 
 ---
 
 ## 📚 Full Documentation
 
-All setup help and deep-dive guides are in the [`/docs`](docs/index.md) folder.
+All setup help and deep-dive guides are on the website [`hawkwatch.xyz`](https://hawkwatch.xyz/docs/)
 
-- [What Triggers Alerts](docs/triggers.md)  
-- [Spotting Real Gameplay Updates](docs/spotting_real_updates.md)  
-- [Permissions Guide](docs/permissions.md)  
-- [Support + Feedback](docs/support.md)
-- [Commands and Deets](docs/commands/index.md)
+- [What Triggers Alerts](https://hawkwatch.xyz/docs/guides/triggers/)  
+- [Spotting Real Gameplay Updates](https://hawkwatch.xyz/docs/guides/triggers/#understanding-real-vs-cosmetic-updates)  
+- [Permissions Guide](https://hawkwatch.xyz/docs/troubleshooting/permission-errors/)  
+- [Support + Feedback](https://hawkwatch.xyz/docs/legal/support/)
+- [Commands and Deets](https://hawkwatch.xyz/docs/commands/)
 
 ---
 
@@ -68,9 +68,9 @@ Need help or have a suggestion?
 
 ## 🔒 Terms of Service, Privacy & Updates
 
-- [Privacy Policy](privacy_policy.md)
-- [Terms of Service](terms_of_service.md)
-- [Changelog](changelog.md)
+- [Privacy Policy](https://hawkwatch.xyz/docs/legal/privacy-policy/)
+- [Terms of Service](https://hawkwatch.xyz/docs/legal/terms-of-service/)
+- [Changelog](https://hawkwatch.xyz/docs/changelog/)
 
 
 ---
